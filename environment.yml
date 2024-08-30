@@ -12,3 +12,4 @@ dependencies:
   - uvicorn=0.30.6
   - gunicorn=22.0.0
   - pip=23.2.1
+  - flake8=6.1.0
